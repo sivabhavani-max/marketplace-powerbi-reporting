@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.env
+
+# Output files (generated automatically - not tracked)
+Outputs/
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data files
+*.xlsx
